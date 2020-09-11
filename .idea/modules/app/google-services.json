@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621356087147",
+    "firebase_url": "https://shunyaassignment.firebaseio.com",
+    "project_id": "shunyaassignment",
+    "storage_bucket": "shunyaassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621356087147:android:e198d9827044636ca1be2e",
+        "android_client_info": {
+          "package_name": "com.example.shunyaassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621356087147-7mjvd1qotresfoonn6u5hhtqn4mbcufm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shunyaassignment",
+            "certificate_hash": "706aa344ddcb8d9dd11e4a5e985a178086a039e0"
+          }
+        },
+        {
+          "client_id": "621356087147-ite9gokjdnnev1hainggbjrarbp76s36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVnDw5uFJ_8FjjXDfpPqUJwZQygEyBtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621356087147-ite9gokjdnnev1hainggbjrarbp76s36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
